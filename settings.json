@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "svx-smp.aternos.me",
-    "port": 19898,
+    "port":19898,
     "version": "1.20.1",
     "try-creative": true
   },
